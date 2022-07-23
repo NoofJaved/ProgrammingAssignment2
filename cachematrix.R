@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do 
 ## there are overall two function makeCacheMatrix and cacheSolve
-## the makeCacheMatrix consists of set, get,setinv,getinv
+## the makeCacheMatrix consists of set, get, setinv, getinv
 
 ## Write a short comment describing this function
 
